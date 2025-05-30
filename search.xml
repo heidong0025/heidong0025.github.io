@@ -175,6 +175,17 @@
     
     
     <entry>
+      <title>archives</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -202,17 +213,6 @@
       <url>/link/index.html</url>
       
         <content type="html"><![CDATA[<p><a href="http://www.yfwork.xyz/">雨源猿</a>（郭总的个人博客)</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>archives</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
