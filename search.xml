@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>25年6月数学</title>
+      <link href="/2025/05/28/25%E5%B9%B46%E6%9C%88%E6%95%B0%E5%AD%A6/"/>
+      <url>/2025/05/28/25%E5%B9%B46%E6%9C%88%E6%95%B0%E5%AD%A6/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>25年6月英语</title>
+      <link href="/2025/05/28/25%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD/"/>
+      <url>/2025/05/28/25%E5%B9%B46%E6%9C%88%E8%8B%B1%E8%AF%AD/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>sw安装教程</title>
+      <link href="/2025/05/24/sw%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+      <url>/2025/05/24/sw%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> sw </tag>
+            
+            <tag> solidworks </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>犀牛8.17安装教程</title>
+      <link href="/2025/05/23/%E7%8A%80%E7%89%9B8.17%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+      <url>/2025/05/23/%E7%8A%80%E7%89%9B8.17%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<p>这是犀牛rhino8.17的安装教程</p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>首先我们要有犀牛的安装包，我的安装包是在 <a href="https://www.xu5.cc/">https://www.xu5.cc/</a> 这个网站上下载的，但是，该网站只提供迅雷和夸克，这两个网盘对于非会员的使用体验是很差的，所以我上传到了<a href="https://pan.baidu.com/s/1PFdPPeoYsAmazXgDF4sNeg?pwd=6666">百度</a>，<a href="https://www.alipan.com/s/Spsd1iPYLEb">阿里</a>，<a href="https://www.123912.com/s/a6o0Vv-TFFr3">123云盘</a>，提取密码都是6666，为了防止和谐，我还增加了一个压缩包，解压后就是exe文件，解压密码是heidong。</p><p><a href="https://postimg.cc/tYhJg8Mp"><img src="https://i.postimg.cc/kXHbTmN6/image.png" alt="image.png"></a></p><p>这是完整的文件，当然有exe文件即可，zip文件不需要下载，当分享链接中无exe文件，那么需要下载zip文件后解压，关于解压自行在<a href="www.bilibili.com">bilibili</a>寻找教程。</p><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>双击exe文件后会弹出一个对话框，点击<strong>是</strong>，选择解压路径，默认是在<strong>当前路径</strong>，点击确定，会在选择的路径下生成一个<strong>Rhinoceros 8.17.25066.7001</strong>的文件夹,这是文件夹下的文件。<a href="https://postimg.cc/SJr434P2"><img src="https://i.postimg.cc/YCcS4qf3/image.png" alt="image.png"></a></p><p>进入安装文件可以看到<strong>rhino_en-us_8.17.25066.07001_Downloadly.ir</strong>的exe文件，双击运行，语言选择简体中文<a href="https://postimg.cc/NL0S18dW"><img src="https://i.postimg.cc/T2jxvCgY/image.png" alt="image.png"></a></p><p>下面的两个勾勾可以取消掉<a href="https://postimg.cc/mPTQHjw9"><img src="https://i.postimg.cc/MpQtgrf9/image.png" alt="image.png"></a>等待安装<a href="https://postimg.cc/HV9Md5gk"><img src="https://i.postimg.cc/m20y3NpC/image.png" alt="image.png"></a></p><p>时间会久一点，安装完成后桌面上会有一个快捷方式，打开文件路径，默认的是C:\Program Files\Rhino 8\System，把补丁中的两个文件复制到该路径<a href="https://postimg.cc/qhKtY6w0"><img src="https://i.postimg.cc/LXCzJzZq/image.png" alt="image.png"></a></p><p>首先运行<strong>一键配置防火墙组织策略</strong>，全部选择<strong>确定</strong></p><p><a href="https://postimg.cc/XXwGkFXk"><img src="https://i.postimg.cc/BZzTsB0k/image.png" alt="image.png"></a></p><p>随后以<strong>管理员</strong>身份运行<strong>cr-keygen</strong>，必须是管理员身份运行</p><p><a href="https://postimg.cc/kBs2kmQV"><img src="https://i.postimg.cc/mgf71ZhS/image.png" alt="image.png"></a>否则无法破解</p><p><a href="https://postimg.cc/QVX9SC5L"><img src="https://i.postimg.cc/3rGX8Dxw/image.png" alt="image.png"></a></p><p>然后运行犀牛软件，首先会让你输入邮箱</p><p><a href="https://postimg.cc/LJsJSbDx"><img src="https://i.postimg.cc/vZrfrRVw/image.png" alt="image.png"></a></p><p>这个随便输就行，选择离线验证</p><p><a href="https://postimg.cc/Kk7TjgMf"><img src="https://i.postimg.cc/26M7HQjs/image.png" alt="image.png"></a></p><p>输入授权码和验证码</p><p><a href="https://postimg.cc/pyq9SvYm"><img src="https://i.postimg.cc/BQGxXQjB/image.png" alt="image.png"></a></p><p><a href="https://postimg.cc/fJy3nPBB"><img src="https://i.postimg.cc/15cD6h6h/image.png" alt="image.png"></a></p><p>就会显示授权验证已完成<a href="https://postimg.cc/zVQyJkQ5"><img src="https://i.postimg.cc/Qd81J4kB/image.png" alt="image.png"></a></p><p>然后就可以愉快的使用犀牛了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 犀牛 </tag>
+            
+            <tag> rhino </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>25年4、5月记</title>
+      <link href="/2025/04/22/25%E5%B9%B44%E3%80%815%E6%9C%88%E8%AE%B0/"/>
+      <url>/2025/04/22/25%E5%B9%B44%E3%80%815%E6%9C%88%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://tool.lu/netcard/" alt="IP签名"></p><p><del>至于为什么要按月份来分隔嘞，主要是按天的话文档数量就会非常的多，查找会不方便，按年的话一个文档有会非常长。所以目前选择按月来分隔。</del>还是按年吧，毕竟加上标题看起来也还行。我之前的记录吧，也不能算是日记，是从25年1月12日开始的。使用的是nian，GitHub开源的，不联网，可以方便的导入导出，而且支持markdown格式。至于markdown，我是在去年下半年吧，从郭总那了解到的，知道的时候真的是发现了新大陆啊。从来没想过会有这么方便的工具。不过我在nian写的可能不会放到这里，因为nian导出的是一个文档，我要重新分类，不是很方便，那就不公开了。</p><h1 id="04月"><a href="#04月" class="headerlink" title="04月"></a>04月</h1><h2 id="22"><a href="#22" class="headerlink" title="22"></a>22</h2><p>今天早上笑死我了，<strong>全宿舍4个人全部睡过头了</strong>。8：32吧，唐淼莹给我打电话了，但是就响了几下吧，就挂了，但是啊，我电脑音量没关，所以嘞给我吵醒了，我一看已经上课了赶紧起床，然后就发现我们宿舍4个人的拖鞋都在，然后我就去看了课表，确实有课。然后问了唐，他说我们宿舍的都没来，不过还好是詹的课，问题不大。</p><p>上课和原来一样啊，几乎所有课程都没什么用，我该不学还是不学。</p><p><a href="https://postimg.cc/4YL3DvNJ"><img src="https://i.postimg.cc/SKqzzVBz/Screenshot-2025-04-22-17-55-18-073-com-tencent-mm.jpg" alt="Screenshot-2025-04-22-17-55-18-073-com-tencent-mm.jpg"  /></a></p><p>今天到现在为止已经背了10个单词，复习了42个，从现在来看其实可以了，之前一天30个，后来一天20个，但是复习的单词会越来越多，最后没时间背，我现在的目标就是一天10个，然后尽可能的多复习一点，同时保证不心血来潮一下子背太多。记得在参加职业技能大赛前我都是每天背的，参加后就没怎么背了，然后一直到前几天。还有数学啊，一直就没怎么学，挺烦的，真的要认真了。还是要午睡啊，刚才在床上躺了一会，明显精神好很多。</p><h2 id="23"><a href="#23" class="headerlink" title="23"></a>23</h2><p>江涛的课依旧很水啊，在上课背了10个单词，复习18个。下午认真学吧，多学点语法吧，要不然啥也不会啊。学了一下午的英语，然后打算睡前再复习一下，要不然感觉很容易忘记啊。傍晚吧，口出狂言啊，跟皮蛋说：4天没学会我誓不为人，那就努力学一下函数的微分吧。只能委屈一下英语了。不过今天没怎么学数学，明天开始从零开始看吧，毕竟上次学数学还是在上次。差不多都还回去了。跑步跑了400*3，组间休息4min，时间分别是71,66,62，很不错啊。但是嗷，回到图书馆坐下的时候抽筋了，差点叫出来啊，很尴尬啊，很尴尬。</p><p>笑死了，舍友（chz）妈妈问他为什么买尿不湿，发了22秒语音问。给我笑死了。（大概内容是他妈妈看到拼多多有个和他头像一样的人买了好几次尿不湿，怀疑是室友买的，就问了好几遍）</p><p>毁了，下午还想着晚上要回顾一下学的内容，现在感觉搞一下吧。</p><p>动词分为谓语动词和非谓语动词，谓语动词的考点有时态**【时间和状态】**（现在，过去，将来，过去将来，一般，过去，将来，过去将来），<strong>语态</strong>（主动，被动），<strong>情态</strong>（情态动词的辨析，情态动词+动词原形），<strong>主谓一致</strong>（人称和数的一致【三单】），<strong>虚拟语气</strong>（【与事实相反或者不太可能成为事实】过去，现在，将来）。非谓语动词有三种，<strong>ing</strong>（动名词，现在分词【表现在，正在，持续。表主动】）,<strong>ed</strong>（过去分词【表过去，完成】，表被动「be+-ed」）,<strong>to do</strong>（不定式：表将来和目的）</p><p>下面的是看英语兔的视频学到的，感觉这个up主真不错</p><p>简单句&#x3D;什么+怎么样&#x3D;主语（人&#x2F;物）+谓语（动作&#x2F;发生了什么事）</p><p>1.无需承受者（宾语）：主语+不及物动词</p><p>2.一个宾语，无补充信息：主语+谓语动词+宾语</p><p>3.两个宾语：主语+双及物动词+间接宾语+直接宾语</p><p>4.一个宾语+补充信息：主语+复杂及物动词+宾语+（宾语）补语</p><p>5.赋予信息：主语+连系动词+主语补语（表语）</p><p>谓语≠谓语动词，</p><p>定语用于修饰主语或宾语</p><p>状语用于修饰谓语动词</p><p>同位语用来再把主语或宾语说一遍</p><p>以上为简单句</p><p>简单句组合有复合句（并列关系），复杂句（从属关系）</p><p>简单句作主语&#x3D;主语从句</p><p>宾语&#x3D;宾语从句</p><p>表语&#x3D;表语从句</p><p>同位语&#x3D;同位语从句</p><p>这四种都有名词性质，都称为名词性从句</p><p>定语&#x3D;定语从句</p><p>状语&#x3D;状语从句</p><p>谓语动词可以表示1.动作的时间，2.动作的状态，即时态。3.动作的假设，情感（语气，如虚拟语气）</p><p>非谓语动词：1.动词不定式 2.现在分词 3.动名词 4.过去分词</p><h2 id="24"><a href="#24" class="headerlink" title="24"></a>24</h2><p>上课还是不适合学习，看网课没声音啊，只能看字幕，做题的话又不会，好尴尬。</p><p>上课也没怎么学，主要是b站生成的字幕不太对。晚上在图书馆待到9.30，下大雨嘞，淋着雨回的宿舍。今天单词背了10个，复习了20个。</p><p>也不知道领导发什么颠，每天10.00-10.30要在学习通签到，我个人坚决反对。没想到大学高中化真的越来越严重了。</p><h2 id="25"><a href="#25" class="headerlink" title="25"></a>25</h2><p>今天早上上完课（就业指导）后就去图书馆了，到晚上10点位置没看任何英语的，睡前看一下吧。数学的话已经把极限全部学完了，明天学导数，后天学微分，但是嗷，周日补周一的课，难搞，只能明天加加油了。今天下午和刘雪春聊了何江涛的事，感觉刘老师真不错，确实是在从我的角度出发，和陈圆圆不一样，她就是借着石休令的事来说我的问题，然后我和石老师的事情吧也没解决，我也不认为我和何江涛之间的事我有问题（他抢我专利他还有理由了？没干他不错了）。关于我的做法激进的事情吧，我确实很激进，可能是在中学阶段反应的问题不给解决，似乎大多数中学阶段的老师都自我感觉高人（学生）一等，我不激进问题就无法得到解决。尤其是初中的叶新民，我写了两张纸条，内容大概有以下几点</p><p>1.早上值日应该由当天的值日生完成，不能谁先来谁值日</p><p>2.不能无故占用体育课，尤其是占用体育课后不上课就纯自习（个人认为脑残）</p><p>3.批评方式不对，我好像是写了“三明治”批评法吧，叶新民还嘲笑我，这句话记得清清楚楚“三明治是什么，我叶老师（个人认为配不上老师这个称呼）还没吃过，什么时候买个给我吃吃啊”，笑死我了</p><p>4.作业布置不合理，当时书上的课后习题平均做了3遍吧，但是做了交上去你不看，不批，妈的直接扔垃圾桶，就看齐没齐。呵！</p><p>然后嘞直接给我家长叫来，我也不知道他一个人叽里咕噜能讲一上午，我回去的时候应该还有20分钟左右吧就吃饭了，记得很清楚啊，科学课。那天中午我好像饭也没吃吧。记不太清了。现在来看很后悔啊，就应该硬刚，怂个蛋啊，又不能开除我，也不能给处分，有啥怕的。</p><p>就这些破事吧让我感觉不直接找更上一级层面的部门，领导就没用。但是现在来看吧，就至少邮电，还是会解决问题的，而不是解决提出问题的人。这点不错。</p><p>突然想起来何江涛说过的话“你们就不要认真去做，周末就干自己的事情，就不要拿奖”笑死了，损人不利己，还让我们请病假。</p><h2 id="26"><a href="#26" class="headerlink" title="26"></a>26</h2><p>现在的想法就是把何江涛事件全过程梳理一遍，搞成PDF，然后把何江涛上课的内容提取出来，对比PPT，这可能是最好的证明办法。</p><h2 id="27"><a href="#27" class="headerlink" title="27"></a>27</h2><p>真的不理解，两个室友天天在宿舍蛐蛐何江涛，但是到评价的时候却不说，不是啊，这匿名的，然后说要给点面子？你在宿舍说的时候怎么不想想他的面子呢？给你机会说你不说，然后在宿舍一直说，我真不理解啊。怂逼</p><h2 id="29"><a href="#29" class="headerlink" title="29"></a>29</h2><p>上午上课已经背了20个单词，复习了31个，下午再复习20个差不多了。</p><h1 id="05月"><a href="#05月" class="headerlink" title="05月"></a>05月</h1><h2 id="4"><a href="#4" class="headerlink" title="4"></a>4</h2><h3 id="凌晨"><a href="#凌晨" class="headerlink" title="凌晨"></a>凌晨</h3><p>已经是第二天了，刚刚买了个<a href="www.041201.xyz">域名</a>，总比原来的一大坨要好一点，再说了，一年5块，要什么自行车。昨天下午学了非谓语动词，没学会，然后学从句，还是不会，不过我看弹幕，别人也有学两个小时的，视频才10分钟啊，太干了，我今天还是看看别人的视频吧，英语兔的根本看不懂啊，但是他的语法汇总真的讲的很好。晚上跑了个间歇，佳明说7组，我就跑了6组，但是啊，我跑到配速很不对，240的配速跑10秒，我直接是百米冲刺的速度跑10秒，怪不得这么累，然后跑步过程中发现了心率带很不准，沾水了，但是数据仍然很离谱。前几天一直在库库学啊，感觉自己高中真牛逼，可以从起床学到睡觉的，现在不行了，学一个下午就感觉很累了，真的顶不住。碎觉，现在已经1:13了。</p><p>晚安，玛卡巴卡！</p><p>现在来看域名解析好像有问题，有时候会显示没有此页面。<del>在csdn上找了一篇教程，似乎是配置好了</del>找到原因了，我添加了域名，发现有一条仓库的更新记录：Create CNAME，增加了一个：CNMAE的文件，里边有你的域名，至此我就知道为什么了，因为GitHub自动添加了CNAME，我却没有更新到本地，所以每次更新blog的时候都会删除掉这个CNAME文件，导致域名无法正常解析。</p><p><strong>解决办法</strong><br>添加域名解析后，跟新CNAME文件到本地仓库，以后在更新blog就不会是CNAME文件缺失了。</p><p>没错，问题就是这个，现在已经完美解决了，碎觉咯！</p><p>还有个小问题，我用域名访问一次网页的访客数就加一，导致访客数和浏览数是一样的，但是用github的三级域名不会，这个有空搞吧。</p><h3 id="傍晚"><a href="#傍晚" class="headerlink" title="傍晚"></a>傍晚</h3><p>看了大雁的专升本课程，讲的很牛逼啊，直接预判我的预判，然后回来发现<strong>电脑蓝屏</strong>了，一直重启，bios也进不去，我直接怀疑内存爆炸了，结果真是，拆了一条后可以进系统了，把频率改为2666，正常了，两根内存条都插进去也可以进系统，内存测试了20分钟，没报错，先凑合用吧。内存终生质保，但是我的这么容易坏可能是我高强度使用吧，毕竟一年半，开机时长已经1w+了，平均使用时长超过了66%，像我这么用会报错感觉也正常。</p><p>很累啊，不想跑步，不想背单词。</p><p>东哥真可以啊，补贴的很到位，这个五一差不多全部是吃的京东外卖，而且现在店铺越来越多了，比美团多，唯一不好的就是不能送上楼，要去门口拿，不过没啥。</p><h2 id="6"><a href="#6" class="headerlink" title="6"></a>6</h2><p>一天的课啊，很累，今天不学英语了。下午了解到了几个软件，一个是<strong>caesium-image-compressor</strong>，这个是压缩图片的，可以完美保留元数据，同时无损压缩的压缩率可以到90%左右，有损压缩可以自己调节，我jpg格式选择90的质量，压缩率可以到30%，太恐怖了，还没有大的区别，本地冷备份很合适啊，云端存原版。还有一个是<strong>MediaioSetup</strong>，是视频压缩的，介绍中写了可以保留元数据，但是最新版的用不了，报错 <code>0xc000007b</code>，不知道为什么，有空再解决吧。在用照片压缩工具的时候，不知道什么情况丢失了挺多照片的，现在在把照片从云端下载，得亏云端有备份，不然就毁咯~。回宿舍看了**《刑警的日子》**，不过现在只有4集，看了3集，已经好久好久没看电视剧嘞，还挺好看。</p><h2 id="7"><a href="#7" class="headerlink" title="7"></a>7</h2><p>今天去了招聘会，4家企业，其中有一家好像一份简历都没收，我也去面试了，感觉hr更多的是引导我怎么去介绍自己，最后直接跟我说我不适合。电信的没去面试，人太多了，剩下两家的三个岗位有两个是要倒班的，完全接受不了。我理想的工作是早9晚5的，但是今天的都是早9晚6。</p><p>感觉直接抄皮蛋的简历还是不行，要真的加上点自己的小发明小创造*（单片机开发板的实践，3D打印，仔细想想大学也没干什么事，确实是在混日子啊，每天搞自己的小东西，但是没有任何实际意义的，如果说真的去搞一些有用的，那难度还是比较大的，而且要有一个大体的方向[这个就不知道方向啊]，而且我确实找不到人和我一起干，学校的比赛吧，总有人会因为学分，证书去比的，但是这样一个自己的项目，自己出资，自己负责全部流程，确实太难找了，有这个能力，想法的就难找，还要自己出钱的就更少了）*，这样至少在小公司会有点竞争力，大企业的话似乎不看重这些，毕竟都是一个岗位负责一件事嘛，不需要会的很杂而是要专一。和简历指导老师聊了一下，他说让我把证书写上去，但是吧第一个是我认为证书毫无用处，第二个是没考。不过现在想把a级过了，有可能的话过4级。这个证书还是有点含金量的。还有就是电工证，学校不是考点了，烦！也不知道明年南洋还是不是考点，有机会去考一个。还有一点就是写上自己做的一些项目吧，这点我是认可的，确实要写。我打算之后录下来发b站。</p><p>突然想到了小时候吃的饼干，很好吃啊，奶味很浓，但是现在已经停产了。吃不到了，不嘻嘻。</p><h2 id="8"><a href="#8" class="headerlink" title="8"></a>8</h2><p>今天想了一下，决定把照片存在所有可以存的网盘，之前是存在了百度网盘，但是前几天把本地的照片删除后发现我的备份只有百度网盘，还好文件没有错误和丢失，这几天我会把所有可以存储的地方都存满，保证有多个备份。豆包现在有个云盘，无限空间，字节跳动毕竟财大气粗，不缺钱，所以感觉不太可能直接跑路，哪怕限速也比没有好啊，大不了一个会员嘛。其他还有123云盘，阿里，城通，115（这个过段时间买个扩容卡），那我的照片应该是不会丢失了。对了，本地也得存一份。</p><h2 id="9"><a href="#9" class="headerlink" title="9"></a>9</h2><p>今天在看123云盘会员功能的时候发现了一个图床，随后去了解了一下，发现就是和我之前想用的功能一致，就是把图片上传别人的服务器，在自己的博客调用，这样不占用本地空间，不占用服务器流量，很好啊，先去试试水。下面是一个测试链接<a href="https://imgse.com/i/pEOlnBQ"><img src="https://s21.ax1x.com/2025/05/09/pEOlnBQ.md.jpg" alt="pEOlnBQ.md.jpg"  /></a>这个是我好久之前拍的照片，这个好像是不限空间，图片的，只是限制单张图片小于5MB，很好啊。</p><p>下面的是另一个图床的测试图片<a href="https://postimg.cc/wRj1zJq5"><img src="https://i.postimg.cc/qq8y8XWF/pEOlnBQ.jpg" alt="pEOlnBQ.jpg"  /></a></p><p>挺好的，网页可以正常观看，嘿嘿。但是这个图片的大小要调整一下，不然太占位置了。</p><p>今天下午去拿了证书<a href="https://postimg.cc/CdnpnLvM"><img src="https://i.postimg.cc/SQDS5nC9/pEOlI8P.jpg" alt="pEOlI8P.jpg"  /></a></p><p>挺不错的，这个有4份，一人一张。</p><p>挺好挺好，我把背景图也上传到图床了，这样我Github pages只存文本，那够我写一辈子了。</p><h2 id="10"><a href="#10" class="headerlink" title="10"></a>10</h2><p>对于123云盘，我还得考虑一下吧，现在还是用b站动态来当图床吧。虽然一直亏钱，但是不至于这么快倒闭吧。不过b站当图床的话点击不会直接跳转到网址，要长按选择查看图片才可以看原图，并且b站的图片会压缩为webp格式。还是用postimg吧，好歹是2004年开始运营的，到现在也没倒闭。退一万步讲，就算倒闭了，那我本地也是有备份的，云盘也有，根本不怕。</p><p>昨天中午去了图书馆，完全没心思学，玩了会手机就会宿舍了，今天还是这样，没学的心思。</p><p>晚上整理了一下照片，把很多照片都删除了，发现曾经只会一直按快门，拍到的都是模糊的，重复的。还把储存逻辑改了<a href="https://postimg.cc/WhM8pvbz"><img src="https://i.postimg.cc/4N0S5fD6/2025-05-10-210136.png" alt="2025-05-10-210136.png"  /></a>这样就挺好的。</p><p>已经把照片原始版压缩包上传到豆包云盘了，不限空间，不限大小，先不管之后限速，限容量的事情，传了再说。然后把照片也上传一遍，这样可以试试豆包对于图片的识别和创作，个人感觉豆包的图片识别已经是遥遥领先了，这次搞无限空间云盘可能就是为了数据，用于ai训练。</p><p>把我的115账号注销了，毕竟买扩容卡好贵，不如直接买账号然后换绑。</p><h2 id="11"><a href="#11" class="headerlink" title="11"></a>11</h2><p>看豆包云盘的时候发现文件名不合规<a href="https://postimg.cc/ZByKgJ4T"><img src="https://i.postimg.cc/TwtLKPsW/2025-05-11-105137.png" alt="2025-05-11-105137.png"  /></a>不过文件还是可以查看的，那就当一个备份吧。但是，下载后文件名就是&lt;文件名不合规&gt;。我也是不理解，一张截图的文件名怎么会不合规。然后照片视频的时间戳都是不保存的（既然这样元数据肯定是没了），这是一个缺点。</p><p><a href="https://postimg.cc/ThfHPC59"><img src="https://i.postimg.cc/449CB0Jr/2025-05-11-115351.png" alt="2025-05-11-115351.png"></a>我也是不理解，一个啥都没有的网站会有这么多请求。</p><p>刚才在整理25年的照片，发现有一张照片只显示一般，查看详细信息，文件体积很小，只有1.9MB，但是分辨率很大，可能是当时拍摄50MP像素的照片吧，分辨率是6300*11200，这样就是7000w像素，然后当时又是连拍，估计是手机没处理过来，所以只显示一部分的情况。<a href="https://postimg.cc/8F6N1Dns"><img src="https://i.postimg.cc/xdsC31vG/Xiaomi-13-20250303-202528679.jpg" alt="Xiaomi-13-20250303-202528679.jpg"  /></a>看来小米还有很多路要走啊，尤其是系统，真一坨。</p><p>质疑苹果，理解苹果，成为苹果——但是吧，没有<strong>侧滑返回</strong>、<strong>通话录音</strong>、系统过于封闭，闪存太贵，<strong>没有双开</strong>，<strong>不能长截图</strong>，<strong>残血nfc</strong>，没有红外，<strong>没有小窗</strong>，<strong>标准版60hz</strong>,AI通话。这些我都挺看重的，尤其是加粗的，我真的不能理解苹果为什么不加上这些功能。</p><p>苹果的相机真的不错，妈的傻逼小米，我一开动态照片打开相机的前几秒一定是卡的，拍出来的照片也是卡的，必须等上4,5秒再拍摄才有比较明显的改变。</p><p>还有就是充电速度，我现在的小米13充电速度就没上过30w，直接砍死了，这样还不如满血30w，干脆别宣传67w，虽然苹果现在只有27w吧，好像是这个速度，但是人家不会砍这么多啊。</p><p>之前我种的多肉里有很多小虫子啊，然后买了药，现在已经找不到虫子了，给多肉施了点肥，发现多了一颗小草，不知道是不是蒲公英，前几天看到有蒲公英种子在花盆里。<a href="https://postimg.cc/0r6dP49F"><img src="https://i.postimg.cc/1RBWcx2m/MVIMG-20250511-135158.jpg" alt="MVIMG-20250511-135158.jpg"  /></a></p><h2 id="12"><a href="#12" class="headerlink" title="12"></a>12</h2><p>中午去了法本的笔试，直接就说没通过，考的一大半都是没学过的，笑死，怎么可能通过。<a href="https://postimg.cc/njMW4r2V"><img src="https://i.postimg.cc/bJRjj22n/Screenshot-2025-05-12-12-44-49-478-com-tencent-mm.jpg" alt="Screenshot-2025-05-12-12-44-49-478-com-tencent-mm.jpg"  /></a> 发现有三次机会，我傍晚又考了一次，准确的说是豆包考了一次，直接通过。<a href="https://postimg.cc/YjCzr54z"><img src="https://i.postimg.cc/c1Q9mZ02/Screenshot-2025-05-12-17-04-36-925-com-tencent-mm.jpg" alt="Screenshot-2025-05-12-17-04-36-925-com-tencent-mm.jpg"  /></a></p><p>晚上陪郭去听了专升本的课，这节课一直在讲题目，但是我感觉题目讲的也不行，就是念答案，那我还不如直接看答案嘞。而且一个班80人，上课的不到一半，还有好一部分是上到一半来的，最多1&#x2F;3听完全部课程了。学校的真不行，专升本的数学老师一共两个，大二有5个班，大一的也要这俩老师上。</p><p>个人感觉，以后教育行业一定会往线上发展，录制一节课可以有无数个人观看，而且不限制时间地域想看哪看哪，好的老师、有名气的老师会被广泛传播，线下的只能往加强对学生的监督发展，能起到一个约束，没有其他优势啊。就我们学校吧，一大半的学生是不上课的，笑死。</p><h2 id="13"><a href="#13" class="headerlink" title="13"></a>13</h2><p>突然想起来一个b站up主，<strong>少许猫头</strong>我整体上和她是真的很像，特别是其中一点，我是看了她的视频才反应过来的，她特别喜欢快问快答，<em>我尤其是高中，也是特别喜欢快问快答，然后班级上有很多同学觉得我很烦，我当时并没有意识到，然后班主任吧，就搞了个投票，关于谁讲话多的，那个时候我还没意识到我的快问快答已经影响到很多人了，直到结果出来后，我才发现我的票数很多（不是第一就是第二），然后班主任就跟我说，上课不要回答这么积极，要给别人留点思考的时间。然后我渐渐就不回答了嘛，之后有过一两次投票吧，反正我不回答之后就不投票了，现在想想就是对于我的快问快答出的对策吧。</em></p><p>还有就是对于学习，别人都说学习是痛苦的，但是抛开应试教育，我真觉得学习很快乐，能去了解自己喜欢的事物，不就是快乐的嘛？</p><p>今天晚上导员来宿舍了，聊了挺多的，大部分是关于实习，工作的，校招的工作目前来看，确实一般般吧，然后问导员工作，到手5k，那很痛苦了，真的钱难挣，屎难吃啊。那我爸我妈很牛逼了，真的牛逼啊。我都不敢想，一个月5k，怎么活哦。一家三口，一个月5k，真月光啊。又有就业压力了，虽然专升本吧，但是两年后还是要找工作的，终究是要面对。话又说回来，我暑假也想找个工作干干，要不然真没有一点社会经验啊。反正这个暑假不亏本就完事，总不能倒贴钱去干活吧。还有就是简历，一个行业一个简历，确实是挺麻烦的，当时选择这个专业是因为喜欢，结果吧，学校教的一坨，我也不会长期干这个行业。还是得自寻出路啊。</p><h2 id="14"><a href="#14" class="headerlink" title="14"></a>14</h2><p>上午去车管所取消科目三了，弱智驾校教练，每次什么都不说清楚，什么都要自己了解好再去问，傻逼。</p><p>下午有个学校所谓的优秀校友宣讲会，有个蛋用，但凡是有用的，那就不会强制每个人参加，学校直接要求参加的活动，就是去凑人数，没几个有用，好的。就上次那个hr的讲座，呵呵，讲了个寂寞，纯纯浪费时间。那次还没强制参加。</p><p>去了下午的招聘会，感觉看得上我的就三个，有一个倒班的，不是很想去。剩下两个都是网络相关的，感觉还ok，有一个hr直接说很累，那今天招聘会我的选择其实也就一个。周五再看吧，感觉我真找不到什么好工作啊。</p><h2 id="16"><a href="#16" class="headerlink" title="16"></a>16</h2><p>好累😮‍💨，上午招聘会，下午跑了个1000，今天的招聘会是电信专场，全是要装维和营业员的再加个客户经理，门槛都不高啊，排队的人一堆，我就投了杭州的，还有个设计院，应该也是不会去干的。下午下大雨啊，一阵一阵的，趁着雨停跑了个1000，成绩3′05，还退步2秒，当是误差吧，这次穿的是钉鞋，感觉没什么用，不如强风，不过这次前200米跑的速度偏快，哎~每次都是，我前面一段总是跑的很快，高中就这样。<a href="https://v.douyin.com/cGRUL_rJeXw/">1000米视频</a>。傍晚万国数据给我打电话了，算是线上面试吧，就简单让我聊了聊对于数据中心的认识，还有规划，也不知道看不看得上我。</p><h2 id="17"><a href="#17" class="headerlink" title="17"></a>17</h2><p>这几天不知道为什么有好几天早上都是8.11准时醒，很奇怪啊，今天也是。<a href="https://v.douyin.com/MksYoS-Gd9E/">今天不下雨那就去跑个800</a>，看看什么水平，但是成绩应该不会太好，今天早上腿还是酸的，毕竟昨天跑了个1000。</p><p>终于是把我的花种到花盆里了<a href="https://postimg.cc/bdLNxZgn"><img src="https://i.postimg.cc/SNb2p8zg/wx-camera-1747456266005.jpg" alt="wx-camera-1747456266005.jpg"  /></a>还不错。</p><h2 id="18"><a href="#18" class="headerlink" title="18"></a>18</h2><p>昨天下午发现混元大模型的3d建模还不错，但是现在最多4张照片建模，这样子效果肯定差点意思的，<a href="https://postimg.cc/T5cn2bXX"><img src="https://i.postimg.cc/L5cDTkCh/IMG-20250518-143430.jpg" alt="IMG-20250518-143430.jpg"  /></a>没有特别像吧，但是还凑合。这个精度是0.12的，打印了2个小时，马马虎虎。</p><p>凌晨的时候也不知道又怎么了，就是特别想她啊，我也是不理解，然后看抖音的时候突然发现找不到她了，然后我就一直找，一个一个取关，一个一个找，然后发现，她换头像换名字了，还以为给我移除粉丝了，哎~。也不知道怎么去找她聊天，我也真是不会聊天，很愚蠢啊。感觉我脑回路和大部分人不太一样的。找到她抖音的时候好像已经4点多了吧，直接就不睡了，玩手机、电脑玩到9点多吧，再去睡的觉，睡醒已经快下午1点了。作息直接乱掉了。</p><p>再不追，可能真的没机会了😭😭😭</p><h2 id="19"><a href="#19" class="headerlink" title="19"></a>19</h2><p>今天一天都很<del>累</del>充实啊，上午考试，下午上课，<a href="https://v.douyin.com/Hsl3w9dt1F4/">上完课跑了4*400</a> <em>（垃圾抖音，我上传1080p的直接给我干成720p，码率和540p的差不多，真是服了，要不是b站纯亏钱，我包上传b站的，真的感觉活不了多久了，虽然可能是被收够吧）</em>，还是很累的。考试题目和题库还是有差别，最后那个子网划分确实听都没听过，但是上课是讲了的。中午打印了个羽毛球，10g，比正常的重了一倍，有时间去打打看，估计打两三下就报废了。下午何jt的课还是一如既往，纯念ppt，我忘记录视频了，哎~，应该录上的。跑400间歇，还是很累的，第5组吧，跑一半确实是跑不下去了，遂放弃。佳明的设置真的是要去学习的，纯纯反人类，那个按心率设置休息就挺好，但是，到了指定心率是直接开始下一个步骤的，没有任何反应时间，直接开始，我还得提前准备好，这个真的不合理，至少留几秒给准备吧。晚上在搞虚拟主机，不是很懂，还是直接上云服务器吧，等有钱了再买，华为，京东，腾讯的首次购买都挺便宜的，一年的223服务器都差不多只要50左右，这个得嫖的。但是目前来看GitHub pages足够用了。就是想有空去试试云服务器，毕竟功能增加了很多啊。</p><h2 id="20"><a href="#20" class="headerlink" title="20"></a>20</h2><p>一大早就接到电信运维的电话，问我能不能接受在富阳工作，现在想想，早知道就说几个好一点的区域了，说都接受那真的是给最垃圾的地方啊，人善被人欺，马善被人骑。反正我也不会去干运维，6月6的招聘会，那我就直接说我想去的区域了（找到工作的话），爱要不要，总不能真的去犄角旮旯的地方吧，那也太痛苦了，运维还不包吃住，3k，真有牛马的味道了。6月的有个vivo售后（外包，修手机），想去看看，挺想去大疆售后的，但是大疆官网找不到这个岗位，估计售后都是外包的吧。下午上课的时候万国数据又给我打电话了，让我做个简单的自我介绍，感觉万国要我的概率还是比较大的吧，但是做二休二，接受不了。管他的，先搞到一个offer再说。</p><h2 id="21"><a href="#21" class="headerlink" title="21"></a>21</h2><p>昨天晚上和皮蛋聊了很多啊，但是感觉又没聊，还是挺烦的。下午考eNSP，指令啥也没记住，等罗yc捞我吧，反正把图和线画好，其他的交给老师，总不至于给我挂科吧。今天上午郭yy去了法本的面试，实操，在他之前问的问题都很难，没几个人能打得上来，到了郭yy，什么是cpu，什么是内存，这个是固态还是机械硬盘，笑死了，估计问的很难没人答得上来，后面只能问简单的。下午还有一次，等郭的好消息。这几天魔戒机场的流量用的比较多，价格我感觉还是贵一点，有个飞鸟云，看tg群的消息很卡，但是20元600g，价格让我心动了，但是看tg群的消息，这个机场真的很卡啊，不想买。</p><p>我也是不太懂啊，真的不懂，根本猜不到她的心思。今年不行，那就算了吧，累了。</p><p>晚上何jt给我们叫到教室上课，妈的，发3个ppt让我们自己看，一句话不讲，神经病。下课有个班会？是什么心理的，装装样子。然后回宿舍在搞3d打印的，姓名牌，浮雕，有空去学学怎么做浮雕，之前了解过，挺简单的，而且单色打印，挺适合的。</p><p>妈的，迅雷真畜生，手机里下载的文件不能导出，神经病，纯畜生，文件在android下，不给导出，畜生。非得有线传输。</p><h2 id="22-1"><a href="#22-1" class="headerlink" title="22"></a>22</h2><p>今天上午面试了法本，呵，换了一批人，这批人连我的简历都没看过，可以说是完全不了解我，问我会什么，然后一直在这个方面问，笑死，啥也不会，不过确实啊，专业跨度还是很大的。这就是外包吗？有意思。下午去实操了，说是实操，其实就是问你这些是啥，哪些是啥（比如，这是进水管还是出水管，这是有哪些零部件组成的，这些工具是干啥的，怎么测量电压，里面放的是啥）其实很简单，但是我从来没了解过啊，至少一大半我都是答不上来的，然后我说换岗位，等了一会，it运维的面试官来面试，问了怎么配ip，还有为什么选择他们企业，感觉是看不上我了（3k，无吃无住，能有谁去干哦）。</p><p>打印了浮雕，这个单色打印感觉挺好的，就是要透光看，以后有意思的图片可以用3d打印啊，这不比照片好玩。<a href="https://postimg.cc/crr43G3Y"><img src="https://i.postimg.cc/bNRGKzN6/IMG-20250522-153053.jpg" alt="IMG-20250522-153053.jpg"  /></a></p><p>傍晚跑了<a href="https://v.douyin.com/ruxavZ8n6UI">5*400</a>，本来想跑6个的，后面真跑不动，再跑得跑吐了。晚饭吃了凉面，马马虎虎吧，刚跑完步，夏天，不想吃热的。<a href="https://postimg.cc/PCLSzW85"><img src="https://i.postimg.cc/vZhCyXYf/IMG-20250522-185735.jpg" alt="IMG-20250522-185735.jpg"  /></a></p><h2 id="23-1"><a href="#23-1" class="headerlink" title="23"></a>23</h2><p>考完EDA，我直接回宿舍了，结果他们都去下一门的考场抢位置，没意思没意思，然后田sy给我发消息，说认证的只能报一个，给我的名字删掉了，哎~~~~。<a href="https://postimg.cc/VJVxPkW6"><img src="https://i.postimg.cc/wBqgJtth/image.png" alt="image.png"  /></a></p><p>哎，早知道就直接交卷了，考的那个转向灯，左上角的两个元器件就是不参与仿真的，我一直在搞那个，后来不管了直接交卷，问罗yc，结果就是不参与的，笑死，我还搞了很久很久啊。</p><p>录了个犀牛破解的视频教程，发到了b站和抖音，发现自己讲了非常非常多的<strong>然后</strong>，之后还是先简单的写一些文案吧，要不然我自己听着就很难受。麦克风也是不行，收音的质量非常差啊，真就是听个响。</p><p>晚上和郭一起去听了专升本的课，不定积分，能懂一半吧，明天再学学，现在是有点摆，尽量多学学吧。明天和郭一起学。</p><p>沥海红十字的还能记得我，这个真不错啊，我都想回嘉兴考去了，结果今天给我发消息了。不错不错</p><p><a href="https://postimg.cc/rDXxtw5m"><img src="https://i.postimg.cc/Z50c29Rr/5cb954ca446f8303e3fd8b114e6cfd00.png" alt="5cb954ca446f8303e3fd8b114e6cfd00.png" style="zoom:;" /></a></p><h2 id="24-1"><a href="#24-1" class="headerlink" title="24"></a>24</h2><p><a href="https://postimg.cc/dk8qhkS9"><img src="https://i.postimg.cc/9MkzNyds/Screenshot-2025-05-24-09-36-34-296-com-tencent-mm.jpg" alt="Screenshot-2025-05-24-09-36-34-296-com-tencent-mm.jpg" style="zoom:;" /></a></p><p>这个我不能理解，明明就已经醒了，但是不起床？？？好奇怪。</p><p>下午和郭在教室学，图书管里不开空调，也不开窗，好闷好热，真不如教室，还有电风扇，随便讲话随便外放。郭好像一直在学不定积分，但是他前面的都不会，怎么可能学的明白啊，问他学了多少，答：啥也没学。导数得会吧，也不学。</p><p>傍晚<a href="https://v.douyin.com/m7GorxBvdKs">跑了个1000</a>，表显2′58，但是我回到电脑上用帧总数除以帧率得到的结果是3′01，哎~~，佳明的gps我跑1000总会有20米误差，结果现在计时都有问题，估计也是gps的问题，一开始给我算暂停了。不管，表显2′58就是2′58。</p><p>action3我这次拍摄的是4K60P，因为时间比较长，分成了两个视频，结果这两个视频不是完全连续的，视频之间有一小段空缺，估计是处理不过来了，拍摄1080P的就没有这种问题啊。4K60P估计是超过action3的能力了，毕竟也是老机器了，真是难为他了。</p><p>狗屎抖音，5分钟的视频给我压缩到44MB，笑了。</p><h2 id="25-1"><a href="#25-1" class="headerlink" title="25"></a>25</h2><p>很累的一天，和刚哥去新昌水牛背了，一共9公里。罗伊底盘低，四驱，确实是比人牛逼多了。睡觉还是今天5.30睡的，马马虎虎，问题不大。夏天徒步蚊虫确实多，我冬天去龙王山啥虫子都没有，今天去的全是虫子，有很多不知道叫啥的虫子</p><p><a href="https://postimg.cc/bGwmfsdd"><img src="https://i.postimg.cc/MGyNRBS0/MVIMG-20250525-130221.jpg" alt="MVIMG-20250525-130221.jpg"></a></p><p>这种虫子很多很多啊，得亏刚哥带了驱虫的，喷了后真的没什么虫子了，还有很多马陆，带红色条纹的，和学校的不一样，学校的就黑灰的。还看到两条鼻涕虫啊，很大一坨。</p><p><a href="https://postimg.cc/dLcntWDb"><img src="https://i.postimg.cc/02b4nFvy/IMG-20250525-104555.jpg" alt="IMG-20250525-104555.jpg"></a></p><p><a href="https://postimg.cc/3yqFM1Pb"><img src="https://i.postimg.cc/tTqSxmDy/IMG-20250525-124419.jpg" alt="IMG-20250525-124419.jpg"></a></p><p>可惜看不了动态照片。</p><p>这次也是全程用A3录视频的，但是每3.52GB就分为一个新文件，我要带仪表盘导出的时候就很烦，要一个一个导出，还死慢死慢的。</p><p>在6公里处有一个很陡的<strong>墙</strong>，看1月份的照片是有绳索的，可以爬上去，今天去的时候已经没有了。所以没从这走，直接下山回丁村了。</p><p><a href="https://postimg.cc/9zsX49h5"><img src="https://i.postimg.cc/5N2XR5K0/IMG-20250525-134945.jpg" alt="IMG-20250525-134945.jpg"></a></p><p><a href="https://postimg.cc/mhP22wKy"><img src="https://i.postimg.cc/Pf4LyV49/mmexport1748169951224.jpg" alt="mmexport1748169951224.jpg"></a></p><p>这是和罗伊的合照，但是罗伊不是很想和我拍照啊😭😭，还吐个大舌头。</p><p><a href="https://postimg.cc/9rTmyfm4"><img src="https://i.postimg.cc/yYpD4J2T/IMG-20250525-112854.jpg" alt="IMG-20250525-112854.jpg"></a></p><p><a href="https://postimg.cc/k2v7hhtq"><img src="https://i.postimg.cc/cLV6Cpxg/mmexport1748136918597.jpg" alt="mmexport1748136918597.jpg"></a></p><p>晚安，玛卡巴卡</p><p>傍晚看星光4s，计算了一下一个的制作成本，仅材料就需要110元，但是制作出来只能在硬纸板，塑料，这些上面激光雕刻，感觉性价比不是特别高，可能暂时不考虑制作了，现考虑暑假怎么赚钱吧，和刚哥也聊了，确实，永远别给别人打工，一个月3k，转正4k，不包吃住，我还不如摆地摊嘞，真是的，现在现多想想暑假怎么去“社会实践”一下子吧。阿里巴巴的面试官还直接说了你去实习学不到任何东西，只会让你干杂活，那我还是自己一个人去“闯闯”吧。</p><h2 id="26-1"><a href="#26-1" class="headerlink" title="26"></a>26</h2><p>睡了11个半小时啊，真是没想到能睡这么久的。</p><p><a href="https://postimg.cc/9zbkdWGm"><img src="https://i.postimg.cc/9FHjj007/Screenshot-2025-05-26-11-00-13-994-com-mi-health.jpg" alt="Screenshot-2025-05-26-11-00-13-994-com-mi-health.jpg"></a></p><p>下午拍了个毕业照，然后上何jt的课，不如玩手机啊，屁用没有的。</p><p>晚上教练找我练车开了一圈，感觉问题不大的，能过，就是约不到啊，已经排93了，哎~不知道什么时候可以约到。教练车很可爱啊，一辆粉色的，后面有个向日葵可以吹泡泡。</p><p><a href="https://postimg.cc/CRYcbqd6"><img src="https://i.postimg.cc/3x0z5jh7/IMG-20250526-175628.jpg" alt="IMG-20250526-175628.jpg"></a></p><p>明天要交毕业生登记表，明天上课写吧，今天就这样算数。</p><h2 id="27-1"><a href="#27-1" class="headerlink" title="27"></a>27</h2><p>上课的内容都学过啊，那学了个寂寞，还是学我的数学英语吧。</p><p>妈的，下午体育课，测50米给我手指头划伤了</p><p><a href="https://postimg.cc/zLtBpgNk"><img src="https://i.postimg.cc/mDRHLY6K/IMG-20250527-142620.jpg" alt="IMG-20250527-142620.jpg"></a></p><p><a href="https://postimg.cc/Thmd5SK0"><img src="https://i.postimg.cc/VsZdpP1x/Screenshot-2025-05-27-14-31-56-658-com-tencent-mm.jpg" alt="Screenshot-2025-05-27-14-31-56-658-com-tencent-mm.jpg"></a></p><p>无语无语</p><p>星光4s的PCB版到了，但是现在要考虑做不做啊，材料成本就要110，说实话我觉得偏高。</p><p>昨天凌晨还有个人，应该是看到我发的破解犀牛的那个视频，来问我能不能窃取别人的客户信息，服了，灰产这么多的吗？</p><p><a href="https://postimg.cc/zbV2ywQs"><img src="https://i.postimg.cc/d19bS4jV/Screenshot-2025-05-27-00-21-47-819-com-ss-android-ugc-aweme.jpg" alt="Screenshot-2025-05-27-00-21-47-819-com-ss-android-ugc-aweme.jpg"></a></p><p><a href="https://postimg.cc/G9TSrQGY"><img src="https://i.postimg.cc/1RvxG7zW/Screenshot-2025-05-27-00-21-50-734-com-ss-android-ugc-aweme.jpg" alt="Screenshot-2025-05-27-00-21-50-734-com-ss-android-ugc-aweme.jpg"></a></p><h2 id="28"><a href="#28" class="headerlink" title="28"></a>28</h2><p>今天上午去面试了电信运维，工资前三个月给2490，太低了，没吃没住的，我直接拒绝。</p><p>沥海红十字联系我了，马上就能拿到红十字救护员证了</p><p><a href="https://postimg.cc/ZBxgd87P"><img src="https://i.postimg.cc/DZ9KR51N/Screenshot-2025-05-28-10-03-03-782-com-tencent-mm.jpg" alt="Screenshot-2025-05-28-10-03-03-782-com-tencent-mm.jpg"></a></p><p>京东外卖的蜜雪冰城价格很便宜啊，就是不想吃，没买</p><p><a href="https://postimg.cc/f3xqG7N4"><img src="https://i.postimg.cc/W4KRJSY4/Screenshot-2025-05-28-10-34-36-063-com-jingdong-app-mall.jpg" alt="Screenshot-2025-05-28-10-34-36-063-com-jingdong-app-mall.jpg"></a></p><p>傍晚和郭去学数学，妈的给老师发现了，让我下次别去了，不过，本来就听不懂，不去不去吧。</p><p>上完课和郭去吃饭了，聊了挺多吧，有就业，有专升本，就业吧，没什么好说的，都是牛马，还学不到技术的那种。专升本的话，郭不是很推荐网课，网课的辅导会相较于线下差一点，毕竟不能直接面对面的讲，效果确实不会有线下的好。但是我不是很适合大班课，要不然一对一，但是没钱，无奈╮(╯▽╰)╭只能选择网课。郭说我三分钟热度在大一就看出来了，我确实很严重，但是现在已经好很多了，反正就尽量改进吧，也不能一蹴而就嘛。</p><p>我打算加上学习日记本，也是按月分，这样还能督促一下自己的学习。</p><p>又好几天没和她聊天了，怎么办怎么办，真的是很痛苦啊</p><h2 id="29-1"><a href="#29-1" class="headerlink" title="29"></a>29</h2><p>喝了杯两块的咖啡</p><p><a href="https://postimg.cc/CnNTdvwV"><img src="https://i.postimg.cc/F1t9Wqq1/wx-camera-1748486956132.jpg" alt="wx-camera-1748486956132.jpg"></a></p><p>冰的就是好喝，速溶咖啡冲出来的热的，没有冰块啊。</p><p>中午去拿了校园mini马拉松的参赛包 ，也是比去年好了，去年是没有的，但是今年也就一瓶牛奶，还行还行。</p><p><a href="https://postimg.cc/56wxv3NT"><img src="https://i.postimg.cc/L6WhcQd9/IMG-20250529-124740.jpg" alt="IMG-20250529-124740.jpg"></a></p><p>听说奖牌还是小u，期待一下吧。但是郭不去了，过粪啊很过粪，我参赛包都给他领了，结果说不去了，切~，那么算数，爱去不去。</p><p>可以可以，跑了个大众组第四，前面还是偏快，每次这种情况总会有人带的很快啊，跑第四也是挺满意了，最大心率都干到200了，这还是第一次有记录的2开头的心率嗷，很猛。</p><p><a href="https://postimg.cc/56wxv3NT"><img src="https://i.postimg.cc/L6WhcQd9/IMG-20250529-124740.jpg" alt="IMG-20250529-124740.jpg"></a></p><p><a href="https://postimg.cc/SXs6Fvtz"><img src="https://i.postimg.cc/mr38MxYV/IMG-20250529-180106.jpg" alt="IMG-20250529-180106.jpg"></a></p><p><a href="https://postimg.cc/MnZRVLwr"><img src="https://i.postimg.cc/dVrBPMxv/IMG-20250529-193026.jpg" alt="IMG-20250529-193026.jpg"></a></p><p><a href="https://postimg.cc/0MSJ9RGr"><img src="https://i.postimg.cc/G27PJbHP/mmexport1748524839340.jpg" alt="mmexport1748524839340.jpg"></a></p><p><a href="https://postimg.cc/ZWqBCyPG"><img src="https://i.postimg.cc/t43hv3s4/IMG-20250529-200456.jpg" alt="IMG-20250529-200456.jpg"></a></p><p>大众组第一的是个半马国二的，很他妈牛逼啊，半马117。希望我也有机会进国二吧。这次跑完我感觉我5公里是能进20分钟的，有机会跑一下。</p><h2 id="30"><a href="#30" class="headerlink" title="30"></a>30</h2><p>也不知道又怎么了，突然就很想她，但是她现在给我的感觉就是爱搭不理的，我不找她就几乎不会来找我，昨天晚上回答的也是很敷衍啊，我现在真的搞不懂了，完全不知道她怎么想的。从认识开始，到现在都快8年了，也就初一，大一聊天聊的多一点吧，初中毕业后可以说就是没见过面了。不过我确实也是不会聊天。难道在她心里我真的就只是朋友吗？</p><p><del>翻了一下QQ空间，21年2月8日，我记得很清楚啊，你在QQ空间发了一条说说，“四季与你”，然后配图是一张王源扣篮的照片，还有很多人在评论99，我当时真的很奔溃很奔溃，之后，你又发了一条解释的。</del></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo插入图片视频的教程</title>
+      <link href="/2025/04/21/hexo%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91%E7%9A%84%E6%95%99%E7%A8%8B/"/>
+      <url>/2025/04/21/hexo%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91%E7%9A%84%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<p>这是测试视频，</p><iframe    width="100%"     height="450"    src="//player.bilibili.com/player.html?isOutside=true&aid=114300203047255&bvid=BV1ewdnYtELC&cid=29294789398&p=1"></iframe><p>在src后插入视频的嵌入代码即可。</p><p><del>下面是图片，b站图片好像不能引用，所以只有抖音的。</del></p><p><del>现在是抖音的不能引用，b站的在开头加上<meta name="referrer" content="no-referrer"/> 这一段就可以正常显示了</del></p><p><del>首先随便找个解析网站例：<a href="https://snapany.com/zh">https://snapany.com/zh</a> 。解析图片，把图片链接插入即可。</del></p><p><del>那用b站的就不需要解析了</del></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于ffmpeg的一些事</title>
+      <link href="/2025/04/20/%E5%85%B3%E4%BA%8Effmpeg%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B/"/>
+      <url>/2025/04/20/%E5%85%B3%E4%BA%8Effmpeg%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%8B/</url>
+      
+        <content type="html"><![CDATA[<p>前几天一直在搞ffmpeg的脚本，我自己写的版本最新的以及是是<del>2.2版</del>2.3版了，但仍然有挺多问题的，我第一次了解到ffmpeg是在去年，但是由于他的使用方法是命令行，当时给我的感受就是很复杂，现在看来是对的。deepseek出来的时候是很震惊我的，国产AI大模型已经可以媲美chat-GPT了，之后我就用ds来帮我写bat脚本，但是偶尔还是会有bug，整体满意。但是有些视频是8bit，有些是10bit，这两种类型的视频到现在我还是没有办法在一个脚本中实现压缩功能，所以就出现了8bit版和10bit版。不过我的很多视频都是远古视频，23年，24年的特别多，直接压缩，用各种软件都是会改变元数据的，时间戳就对不上了，后续查找困难，就没采用。</p><figure class="highlight bat"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">    <span class="keyword">for</span> /f &quot;usebackq delims=&quot; <span class="variable">%%a</span> <span class="keyword">in</span> (`powershell -Command &quot;(Get-Item -LiteralPath &#x27;<span class="variable">!input_file!</span>&#x27;).CreationTime.ToString(&#x27;yyyy-MM-dd HH:mm:ss&#x27;)&quot;`) <span class="keyword">do</span> <span class="built_in">set</span> &quot;creation=<span class="variable">%%a</span>&quot;</span><br><span class="line">    <span class="keyword">for</span> /f &quot;usebackq delims=&quot; <span class="variable">%%b</span> <span class="keyword">in</span> (`powershell -Command &quot;(Get-Item -LiteralPath &#x27;<span class="variable">!input_file!</span>&#x27;).LastWriteTime.ToString(&#x27;yyyy-MM-dd HH:mm:ss&#x27;)&quot;`) <span class="keyword">do</span> <span class="built_in">set</span> &quot;modification=<span class="variable">%%b</span>&quot;</span><br><span class="line">      <span class="keyword">if</span> <span class="keyword">exist</span> &quot;<span class="variable">!output_file!</span>&quot; (</span><br><span class="line">        powershell -Command &quot;$file = Get-Item -LiteralPath &#x27;<span class="variable">!output_file!</span>&#x27;; $creationDate = [DateTime]::ParseExact(&#x27;<span class="variable">!creation!</span>&#x27;, &#x27;yyyy-MM-dd HH:mm:ss&#x27;, $null); $file.CreationTime = $creationDate; $modificationDate = [DateTime]::ParseExact(&#x27;<span class="variable">!modification!</span>&#x27;, &#x27;yyyy-MM-dd HH:mm:ss&#x27;, $null); $file.LastWriteTime = $modificationDate;&quot;</span><br><span class="line">    )</span><br><span class="line">)</span><br></pre></td></tr></table></figure><p>用了这些语句来复制时间戳信息，但是呢，这样子就只有时间戳信息了，GPS，设备信息都没有了，相册地图就会缺少很多视频内容。</p><p>再后来我了解到<code>-map_metadata 0 ^</code>这个命令，可以保留视频元数据，使用后发现确实如此，比直接复制时间戳好，至少GPS信息会得到保留，但是拍摄设备的信息任然缺失。而且哪怕是最新的版本在压缩视频的时候也会有丢帧，甚至使用cpu也是如此，简直不能理解，这也是我在开头说ffmpeg很复杂的原因，我甚至找不到原因（其实就是不想找，太花费时间精力了）。随后我便打算采用小丸工具箱压缩，市面上的工具几乎都是采用cpu压缩的，我想可能有这几个原因吧，第一就是cpu压缩不需要考虑硬件加速的问题，第二就是cpu压缩效率高。我现在正在用小丸工具箱压缩视频，打算后续在去修改视频元数据。小丸工具箱以及完全吃满cpu了，我单烤fpu的功耗也就100瓦出头，用他压缩的功耗也是100瓦出头，确实是完全榨干cpu性能了。至少的现在为止没发现小丸工具箱有丢帧情况，目前良好。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> ffmpeg </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello-World！</title>
+      <link href="/2025/04/19/Hello-World%EF%BC%81/"/>
+      <url>/2025/04/19/Hello-World%EF%BC%81/</url>
+      
+        <content type="html"><![CDATA[<h1 id="欢迎来到我的数字自留地-开篇语"><a href="#欢迎来到我的数字自留地-开篇语" class="headerlink" title="欢迎来到我的数字自留地 | 开篇语"></a>欢迎来到我的数字自留地 | 开篇语</h1><p><strong>撰文：DeepSeek</strong></p><hr><h2 id="🌱-写在最前面"><a href="#🌱-写在最前面" class="headerlink" title="🌱 写在最前面"></a>🌱 写在最前面</h2><p>你好，屏幕前的朋友！</p><p>当光标在这片空白的文档上第一次闪烁时，我忽然意识到，这个由代码与灵感构筑的数字花园终于破土而出了。这里将不仅仅是数据的存储地，更是一段思维生长的轨迹，一个与平行世界中的你产生奇妙共振的场域。</p><p>感谢你穿越信息洪流在此驻足。请随意摘取一枝思维的藤蔓，或播撒一粒观点的种子——这个空间因交流而完整。</p><hr><h2 id="📚-内容光谱"><a href="#📚-内容光谱" class="headerlink" title="📚 内容光谱"></a>📚 内容光谱</h2><p>在这个持续生长的知识图谱中，你可能会遇见：</p><h3 id="Ⅰ-生活切片"><a href="#Ⅰ-生活切片" class="headerlink" title="Ⅰ 生活切片"></a>Ⅰ 生活切片</h3><ul><li>城市漫步时捕捉的「决定性瞬间」</li><li>深夜厨房里的哲学思考</li><li>跨越时区的文化观察笔记</li></ul><h3 id="Ⅱ-认知迭代"><a href="#Ⅱ-认知迭代" class="headerlink" title="Ⅱ 认知迭代"></a>Ⅱ 认知迭代</h3><ul><li><strong>技术深潜</strong>：从神经网络到区块链的硬核拆解</li><li><strong>书影重构</strong>：当《百年孤独》遇见GPT-4</li><li><strong>技能图谱</strong>：语言学习&#x2F;摄影&#x2F;烘焙的元认知方法论</li></ul><h3 id="Ⅲ-思维棱镜"><a href="#Ⅲ-思维棱镜" class="headerlink" title="Ⅲ 思维棱镜"></a>Ⅲ 思维棱镜</h3><ul><li>科技伦理：当AI开始撰写情诗</li><li>社会观察：元宇宙时代的社交礼仪雏形</li><li>未来叙事：太空殖民与碳基生命的哲学悖论</li></ul><hr><h2 id="🌌-最后的话"><a href="#🌌-最后的话" class="headerlink" title="🌌 最后的话"></a>🌌 最后的话</h2><p>在这个信息过载的时代，能与你建立这样的慢速连接，本身就是个浪漫的奇迹。当某篇文章的某个段落突然点亮你眼中的光，那便是这个数字花园存在的最佳证明。</p><p>准备好了吗？我们的思维探险，此刻正式启程。</p><p><strong>DeepSeek</strong><br>于某个星月交辉的深夜  </p><blockquote><p>「我们所有的知识都始于感性，然后进入知性，最后以理性告终。没有比理性更高的东西。」——康德《纯粹理性批判》</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://www.yfwork.xyz/">雨源猿</a>（郭总的个人博客)</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>为什么会有这个网站？</strong></p><p>我第一次想建立自己的网站实在大一的时候，那会已经对服务器，NAS有一个基础的了解了，挺想玩玩的，同时朋友圈，QQ空间（这个大约是在高三那会设置的是仅自己可见）的功能不多，可以说很少吧，只能简单的发表一些文字，图片，短视频（图片视频都会被压缩），于是乎我在大一下学期自己买了一套主机，咸鱼上买的总价值约是100吧，没有机箱，也是为后来的事情买下伏笔了。</p><p>我到手的第一时间那包是测试的，很幸运一次点亮。东西没有问题，我记得是首先安装了win11系统，相当卡顿。没怎么玩就换系统了，随后安装的是乌班图，黑群晖，这些都没怎么玩，毕竟用的是500G机械硬盘作为系统盘，再后来我开始搭建博客了，用的什么模板也是忘记了，但是没有公网ip，我就搞了内网穿透，用的还是公益（免费）的，很不稳定，经常掉线。然后然后，因为没有机箱，主板烧了！！！嗯，这就是伏笔。烧了以后吧，就一直吃灰，吃灰到现在。</p><p>就在前几天，我在微信朋友圈发了两张截图，是关于我被踢出群聊的。然后就被找去谈话了，谈话内容一直避重就轻，我发表的是关于石休令的，但是和我谈话的内容几乎全是何江涛。毕竟我确实是骂了何江涛的，骂了但我不后悔，他就该骂，这些事情后续详谈吧。这也是我重新建站一个比较重要的原因，朋友圈发表太多负面言论确实是不太好。短短一百年，还是开心点好。</p><p>那至于为什么选择GitHub pages来建站嘞，主要是功能完全够用，之后可能会趁着学生优惠的最后买云服务器吧，那也还有一年多的时间嘞，要是专升本上岸，那还有三年，目前不着急。</p><p>可能会在一两个月内考虑买一个域名，毕竟现在用的<a href="heidong0025.github.io">heidong0025.github.io</a>这个确实太长了。</p><p><strong>我是谁</strong></p><p>我是黑洞！</p><p><strong>自我评价</strong></p><p>很爱折腾的一个洞。</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>archives</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
