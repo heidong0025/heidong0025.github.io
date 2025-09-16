@@ -1,0 +1,321 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>chrome浏览器看抖音评论区出现花屏现象解决办法 | 黑洞の小窝</title><meta name="author" content="黑洞"><meta name="copyright" content="黑洞"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="今天！！！！！解决了一个超级大问题，网上从来没有找到过相关解决办法，只是一味的让我取消硬件加速，但是取消后观看高分辨率，高码率的视频cpu占用极高，所以我个人是不希望关闭硬件加速的，今天忍无可忍，已经严重影响学习进度了，所以选择问豆包，没想到啊，真的给出了解决办法。  调整 ANGLE 图形后端   打开 Chrome 浏览器，在地址栏输入 chrome:&#x2F;&#x2F;flags 并回车，进入实验性功能页面">
+<meta property="og:type" content="article">
+<meta property="og:title" content="chrome浏览器看抖音评论区出现花屏现象解决办法">
+<meta property="og:url" content="http://041201.xyz/2025/09/16/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%87%BA%E7%8E%B0%E8%8A%B1%E5%B1%8F%E7%8E%B0%E8%B1%A1%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/index.html">
+<meta property="og:site_name" content="黑洞の小窝">
+<meta property="og:description" content="今天！！！！！解决了一个超级大问题，网上从来没有找到过相关解决办法，只是一味的让我取消硬件加速，但是取消后观看高分辨率，高码率的视频cpu占用极高，所以我个人是不希望关闭硬件加速的，今天忍无可忍，已经严重影响学习进度了，所以选择问豆包，没想到啊，真的给出了解决办法。  调整 ANGLE 图形后端   打开 Chrome 浏览器，在地址栏输入 chrome:&#x2F;&#x2F;flags 并回车，进入实验性功能页面">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg">
+<meta property="article:published_time" content="2025-09-16T08:39:12.000Z">
+<meta property="article:modified_time" content="2025-09-16T08:39:46.078Z">
+<meta property="article:author" content="黑洞">
+<meta property="article:tag" content="教程">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg"><script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "chrome浏览器看抖音评论区出现花屏现象解决办法",
+  "url": "http://041201.xyz/2025/09/16/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%87%BA%E7%8E%B0%E8%8A%B1%E5%B1%8F%E7%8E%B0%E8%B1%A1%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/",
+  "image": "https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg",
+  "datePublished": "2025-09-16T08:39:12.000Z",
+  "dateModified": "2025-09-16T08:39:46.078Z",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "黑洞",
+      "url": "http://041201.xyz/"
+    }
+  ]
+}</script><link rel="shortcut icon" href="/img/heidong.png"><link rel="canonical" href="http://041201.xyz/2025/09/16/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%87%BA%E7%8E%B0%E8%8A%B1%E5%B1%8F%E7%8E%B0%E8%B1%A1%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.css" media="print" onload="this.media='all'"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        if (!ttl) return
+        const expiry = Date.now() + ttl * 86400000
+        localStorage.setItem(key, JSON.stringify({ value, expiry }))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return undefined
+        const { value, expiry } = JSON.parse(itemStr)
+        if (Date.now() > expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return value
+      }
+    }
+
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+        script.onload = script.onreadystatechange = () => {
+          if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+        }
+        script.onerror = reject
+        document.head.appendChild(script)
+      }),
+      getCSS: (url, id) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onload = link.onreadystatechange = () => {
+          if (!link.readyState || /loaded|complete/.test(link.readyState)) resolve()
+        }
+        link.onerror = reject
+        document.head.appendChild(link)
+      }),
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!true && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
+    
+          theme === 'dark' ? activateDarkMode() : theme === 'light' ? activateLightMode() : null
+        
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        document.documentElement.classList.toggle('hide-aside', asideStatus === 'hide')
+      }
+    
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":true,"top_n_per_article":-1,"unescape":true,"languages":{"hits_empty":"未找到符合您查询的内容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false,"highlightFullpage":false,"highlightMacStyle":false},
+  copy: {
+    success: '复制成功',
+    error: '复制失败',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"limitCount":50,"languages":{"author":"作者: 黑洞","link":"链接: ","source":"来源: 黑洞の小窝","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。"}},
+  lightbox: 'null',
+  Snackbar: {"chs_to_cht":"已切换为繁体中文","cht_to_chs":"已切换为简体中文","day_to_night":"已切换为深色模式","night_to_day":"已切换为浅色模式","bgLight":"#49b1f5","bgDark":"#1f1f1f","position":"top-right"},
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: false,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'chrome浏览器看抖音评论区出现花屏现象解决办法',
+  isHighlightShrink: true,
+  isToc: false,
+  pageType: 'post'
+}</script><!-- hexo injector head_end start -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 7.3.0"></head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">加载中...</div></div></div><script>(()=>{
+  const $loadingBox = document.getElementById('loading-box')
+  const $body = document.body
+  const preloader = {
+    endLoading: () => {
+      if ($loadingBox.classList.contains('loaded')) return
+      $body.style.overflow = ''
+      $loadingBox.classList.add('loaded')
+    },
+    initLoading: () => {
+      $body.style.overflow = 'hidden'
+      $loadingBox.classList.remove('loaded')
+    }
+  }
+
+  preloader.initLoading()
+
+  if (document.readyState === 'complete') {
+    preloader.endLoading()
+  } else {
+    window.addEventListener('load', preloader.endLoading)
+    document.addEventListener('DOMContentLoaded', preloader.endLoading)
+    // Add timeout protection: force end after 7 seconds
+    setTimeout(preloader.endLoading, 7000)
+  }
+
+  if (true) {
+    btf.addGlobalFn('pjaxSend', preloader.initLoading, 'preloader_init')
+    btf.addGlobalFn('pjaxComplete', preloader.endLoading, 'preloader_end')
+  }
+})()</script><div id="web_bg" style="background-image: url(https://s21.ax1x.com/2025/09/13/pVWcvBn.png);"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img text-center"><img src="/img/heidong.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/ loading='lazy'></div><div class="site-data text-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">14</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">10</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url(https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg);"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><span class="site-name">黑洞の小窝</span></a><a class="nav-page-title" href="/"><span class="site-name">chrome浏览器看抖音评论区出现花屏现象解决办法</span><span class="site-name"><i class="fa-solid fa-circle-arrow-left"></i><span>  返回首页</span></span></a></span><div id="menus"><div id="search-button"><span class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><span class="site-page"><i class="fas fa-bars fa-fw"></i></span></div></div></nav><div id="post-info"><h1 class="post-title">chrome浏览器看抖音评论区出现花屏现象解决办法</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2025-09-16T08:39:12.000Z" title="发表于 2025-09-16 16:39:12">2025-09-16</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2025-09-16T08:39:46.078Z" title="更新于 2025-09-16 16:39:46">2025-09-16</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">总字数:</span><span class="word-count">261</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>1分钟</span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="container post-content" id="article-container"><p>今天！！！！！解决了一个超级大问题，网上从来没有找到过相关解决办法，只是一味的让我取消硬件加速，但是取消后观看高分辨率，高码率的视频cpu占用极高，所以我个人是不希望关闭硬件加速的，今天忍无可忍，已经严重影响学习进度了，所以选择问豆包，没想到啊，真的给出了解决办法。</p>
+<blockquote>
+<p>调整 ANGLE 图形后端</p>
+<blockquote>
+<ol>
+<li>打开 Chrome 浏览器，在地址栏输入 <code>chrome://flags</code> 并回车，进入实验性功能页面。</li>
+<li>在搜索框中输入 “Choose ANGLE graphics backend”，找到该选项。</li>
+<li>点击下拉菜单，选择 “D3D9” ，如果选择 “D3D9” 无效，再尝试选择 “D3D11on12”。</li>
+<li>选择好后，点击页面底部出现的 “Relaunch” 按钮，重启 Chrome 浏览器，之后再打开豆包网页版查看是否还会花屏。</li>
+</ol>
+</blockquote>
+</blockquote>
+<p>我改为D3D9后真的解决了，完美解决，抖音已经不会出现局部花屏了</p>
+<p><a target="_blank" rel="noopener" href="https://imgse.com/i/pVf4h1P"><img src="https://s21.ax1x.com/2025/09/16/pVf4h1P.md.png" alt="pVf4h1P.md.png" loading='lazy'></a><br><a target="_blank" rel="noopener" href="https://imgse.com/i/pVf4RfI"><img src="https://s21.ax1x.com/2025/09/16/pVf4RfI.md.png" alt="pVf4RfI.md.png" loading='lazy'></a><br><a target="_blank" rel="noopener" href="https://imgse.com/i/pVf4fpt"><img src="https://s21.ax1x.com/2025/09/16/pVf4fpt.md.png" alt="pVf4fpt.md.png" loading='lazy'></a></p>
+<p>直接就是完美解决~~~</p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>文章作者: </span><span class="post-copyright-info"><a href="http://041201.xyz/">黑洞</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>文章链接: </span><span class="post-copyright-info"><a href="http://041201.xyz/2025/09/16/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%87%BA%E7%8E%B0%E8%8A%B1%E5%B1%8F%E7%8E%B0%E8%B1%A1%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/">http://041201.xyz/2025/09/16/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%87%BA%E7%8E%B0%E8%8A%B1%E5%B1%8F%E7%8E%B0%E8%B1%A1%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来源 <a href="http://041201.xyz" target="_blank">黑洞の小窝</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E6%95%99%E7%A8%8B/">教程</a></div><div class="post-share"><div class="social-share" data-image="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg" data-sites="wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/sharejs/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i>创作不易，感谢支持！</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="/img/wechat.jpg" target="_blank"><img class="post-qr-code-img" src="/img/wechat.jpg" alt="wechat"/ loading='lazy'></a><div class="post-qr-code-desc">wechat</div></li><li class="reward-item"><a href="/img/alipay.jpg" target="_blank"><img class="post-qr-code-img" src="/img/alipay.jpg" alt="alipay"/ loading='lazy'></a><div class="post-qr-code-desc">alipay</div></li></ul></div></div><nav class="pagination-post" id="pagination"><a class="pagination-related full-width" href="/2025/09/13/front-natter%E8%AE%BE%E7%BD%AE%E9%80%89%E9%A1%B9/" title="front-natter设置选项"><img class="cover" src="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post" loading='lazy'><div class="info text-right"><div class="info-1"><div class="info-item-1">下一篇</div><div class="info-item-2">front-natter设置选项</div></div><div class="info-2"><div class="info-item-1">一、front-matter包含的内容参数描述默认值 基础 title标题 date建立日期文件建立日期 tags标签（不适用于分页） categories分类（不适用于分页） 进阶  1subtitle副标题，通常显示在标题下方，用于补充标题信息（如主题、子话题） layout布局 author作者名字 updated更新日期文件更新日期 comments开启文章的评论功能true permalink覆盖文章网址 keywords仅用于 meta 标签和 Open Graph 的关键词（不推荐使用） summary自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要 img文章的显示的时候的背景 coverimg cover文章的封面图 password设置密码 mathjax渲染LaTex格式的数学公式 top设置置顶 二、什么是front-matter 就是.md文件最上面的这部分内容 -–title: tagsdate: 2019-08-13 09:39:50type: tagslayout: tag-–  三、标签...</div></div></div></a></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><a class="pagination-related" href="/2025/04/21/hexo%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91%E7%9A%84%E6%95%99%E7%A8%8B/" title="hexo插入图片视频的教程"><img class="cover" src="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg" alt="cover" loading='lazy'><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2025-04-21</div><div class="info-item-2">hexo插入图片视频的教程</div></div><div class="info-2"><div class="info-item-1">这是测试视频，    在src后插入视频的嵌入代码即可。 下面是图片，b站图片好像不能引用，所以只有抖音的。 现在是抖音的不能引用，b站的在开头加上 这一段就可以正常显示了 首先随便找个解析网站例：https://snapany.com/zh 。解析图片，把图片链接插入即可。 那用b站的就不需要解析了 </div></div></div></a><a class="pagination-related" href="/2025/09/13/front-natter%E8%AE%BE%E7%BD%AE%E9%80%89%E9%A1%B9/" title="front-natter设置选项"><img class="cover" src="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg" alt="cover" loading='lazy'><div class="info text-center"><div class="info-1"><div class="info-item-1"><i class="far fa-calendar-alt fa-fw"></i> 2025-09-13</div><div class="info-item-2">front-natter设置选项</div></div><div class="info-2"><div class="info-item-1">一、front-matter包含的内容参数描述默认值 基础 title标题 date建立日期文件建立日期 tags标签（不适用于分页） categories分类（不适用于分页） 进阶  1subtitle副标题，通常显示在标题下方，用于补充标题信息（如主题、子话题） layout布局 author作者名字 updated更新日期文件更新日期 comments开启文章的评论功能true permalink覆盖文章网址 keywords仅用于 meta 标签和 Open Graph 的关键词（不推荐使用） summary自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要 img文章的显示的时候的背景 coverimg cover文章的封面图 password设置密码 mathjax渲染LaTex格式的数学公式 top设置置顶 二、什么是front-matter 就是.md文件最上面的这部分内容 -–title: tagsdate: 2019-08-13 09:39:50type: tagslayout: tag-–  三、标签...</div></div></div></a></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info text-center"><div class="avatar-img"><img src="/img/heidong.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/ loading='lazy'></div><div class="author-info-name">黑洞</div><div class="author-info-description">我是一直小小鸟~~~</div><div class="site-data"><a href="/archives/"><div class="headline">文章</div><div class="length-num">14</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">10</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/heidong0025"><i class="fab fa-github"></i><span>Follow Me</span></a><div class="card-info-social-icons"><a class="social-icon" href="https://github.com/heidong0025" target="_blank" title="Github"><i class="fab fa-github" style="color: #24292e;"></i></a><a class="social-icon" href="https://i.postimg.cc/cCqhDqFz/1757400903886-d.png" target="_blank" title="Email"><i class="fas fa-envelope" style="color: #4a7dbe;"></i></a><a class="social-icon" href="https://i.postimg.cc/ZKZdYY2R/1757400802923-d.jpg" target="_blank" title="QQ"><i class="fab fa-qq" style="color: #12B7F5;"></i></a><a class="social-icon" href="https://i.postimg.cc/MGQD7QXb/1757392863603-d.png" target="_blank" title="微信"><i class="fab fa-weixin" style="color: #07C160;"></i></a><a class="social-icon" href="https://i.postimg.cc/6qn8hgPY/1757400961072-d.png" target="_blank" title="电话"><i class="fas fa-mobile-alt" style="color: #7B7B7B;"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">嘿！我是黑洞，欢迎来到我的小窝~</div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/2025/09/16/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%87%BA%E7%8E%B0%E8%8A%B1%E5%B1%8F%E7%8E%B0%E8%B1%A1%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/" title="chrome浏览器看抖音评论区出现花屏现象解决办法"><img src="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="chrome浏览器看抖音评论区出现花屏现象解决办法"/ loading='lazy'></a><div class="content"><a class="title" href="/2025/09/16/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9C%8B%E6%8A%96%E9%9F%B3%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%87%BA%E7%8E%B0%E8%8A%B1%E5%B1%8F%E7%8E%B0%E8%B1%A1%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/" title="chrome浏览器看抖音评论区出现花屏现象解决办法">chrome浏览器看抖音评论区出现花屏现象解决办法</a><time datetime="2025-09-16T08:39:12.000Z" title="发表于 2025-09-16 16:39:12">2025-09-16</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2025/09/13/front-natter%E8%AE%BE%E7%BD%AE%E9%80%89%E9%A1%B9/" title="front-natter设置选项"><img src="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="front-natter设置选项"/ loading='lazy'></a><div class="content"><a class="title" href="/2025/09/13/front-natter%E8%AE%BE%E7%BD%AE%E9%80%89%E9%A1%B9/" title="front-natter设置选项">front-natter设置选项</a><time datetime="2025-09-13T07:03:14.000Z" title="发表于 2025-09-13 15:03:14">2025-09-13</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2025/08/23/25%E5%B9%B48%E3%80%819%E6%9C%88%E8%AE%B0/" title="25年8、9月记"><img src="https://s21.ax1x.com/2025/09/13/pVWcVFf.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="25年8、9月记"/ loading='lazy'></a><div class="content"><a class="title" href="/2025/08/23/25%E5%B9%B48%E3%80%819%E6%9C%88%E8%AE%B0/" title="25年8、9月记">25年8、9月记</a><time datetime="2025-08-23T01:53:07.000Z" title="发表于 2025-08-23 09:53:07">2025-08-23</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2025/08/23/%E6%8B%9B%E6%A0%87%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" title="招标学习笔记"><img src="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="招标学习笔记"/ loading='lazy'></a><div class="content"><a class="title" href="/2025/08/23/%E6%8B%9B%E6%A0%87%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" title="招标学习笔记">招标学习笔记</a><time datetime="2025-08-23T01:53:07.000Z" title="发表于 2025-08-23 09:53:07">2025-08-23</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2025/08/20/25%E5%B9%B4%E6%9D%AD%E5%B7%9E%E5%AE%9E%E4%B9%A0%E5%9B%9E%E5%BF%86%E5%BD%95/" title="25年杭州实习回忆录"><img src="https://s21.ax1x.com/2025/09/13/pVWcMOs.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="25年杭州实习回忆录"/ loading='lazy'></a><div class="content"><a class="title" href="/2025/08/20/25%E5%B9%B4%E6%9D%AD%E5%B7%9E%E5%AE%9E%E4%B9%A0%E5%9B%9E%E5%BF%86%E5%BD%95/" title="25年杭州实习回忆录">25年杭州实习回忆录</a><time datetime="2025-08-20T01:53:07.000Z" title="发表于 2025-08-20 09:53:07">2025-08-20</time></div></div></div></div></div></div></main><footer id="footer" style="background-image: url(https://s21.ax1x.com/2025/09/13/pVWcvBn.png);"><div class="footer-other"><div class="footer-copyright"><span class="copyright">&copy;&nbsp;2025 By 黑洞</span><span class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo 7.3.0</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly 5.4.3</a></span></div><div class="footer_custom_text">转载请注明原文链接<br> 浙IPC备案好几个8号
+</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="日间和夜间模式切换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar/dist/snackbar.min.js"></script><div class="js-pjax"><script>(() => {
+  const loadMathjax = () => {
+    if (!window.MathJax) {
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          tags: 'all',
+        },
+        chtml: {
+          scale: 1.1
+        },
+        options: {
+          enableMenu: true,
+          renderActions: {
+            findScript: [10, doc => {
+              for (const node of document.querySelectorAll('script[type^="math/tex"]')) {
+                const display = !!node.type.match(/; *mode=display/)
+                const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display)
+                const text = document.createTextNode('')
+                node.parentNode.replaceChild(text, node)
+                math.start = {node: text, delim: '', n: 0}
+                math.end = {node: text, delim: '', n: 0}
+                doc.math.push(math)
+              }
+            }, '']
+          }
+        }
+      }
+
+      const script = document.createElement('script')
+      script.src = 'https://cdn.jsdelivr.net/npm/mathjax/es5/tex-mml-chtml.min.js'
+      script.id = 'MathJax-script'
+      script.async = true
+      document.head.appendChild(script)
+    } else {
+      MathJax.startup.document.state(0)
+      MathJax.texReset()
+      MathJax.typesetPromise()
+    }
+  }
+
+  btf.addGlobalFn('encrypt', loadMathjax, 'mathjax')
+  window.pjax ? loadMathjax() : window.addEventListener('load', loadMathjax)
+})()</script></div><script defer="defer" id="fluttering_ribbon" mobile="true" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/canvas-fluttering-ribbon.min.js"></script><script id="canvas_nest" defer="defer" color="255,0,0" opacity="0.7" zIndex="-1" count="80" mobile="true" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/canvas-nest.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/metingjs/dist/Meting.min.js"></script><script>(() => {
+  const destroyAplayer = () => {
+    if (window.aplayers) {
+      for (let i = 0; i < window.aplayers.length; i++) {
+        if (!window.aplayers[i].options.fixed) {
+          window.aplayers[i].destroy()
+        }
+      }
+    }
+  }
+
+  const runMetingJS = () => {
+    typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+  }
+
+  btf.addGlobalFn('pjaxSend', destroyAplayer, 'destroyAplayer')
+  btf.addGlobalFn('pjaxComplete', loadMeting, 'runMetingJS')
+})()</script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>(() => {
+  const pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+  window.pjax = new Pjax({
+    elements: 'a:not([target="_blank"])',
+    selectors: pjaxSelectors,
+    cacheBust: false,
+    analytics: false,
+    scrollRestoration: false
+  })
+
+  const triggerPjaxFn = (val) => {
+    if (!val) return
+    Object.values(val).forEach(fn => fn())
+  }
+
+  document.addEventListener('pjax:send', () => {
+    // removeEventListener
+    btf.removeGlobalFnEvent('pjaxSendOnce')
+    btf.removeGlobalFnEvent('themeChange')
+
+    // reset readmode
+    const $bodyClassList = document.body.classList
+    if ($bodyClassList.contains('read-mode')) $bodyClassList.remove('read-mode')
+
+    triggerPjaxFn(window.globalFn.pjaxSend)
+  })
+
+  document.addEventListener('pjax:complete', () => {
+    btf.removeGlobalFnEvent('pjaxCompleteOnce')
+    document.querySelectorAll('script[data-pjax]').forEach(item => {
+      const newScript = document.createElement('script')
+      const content = item.text || item.textContent || item.innerHTML || ""
+      Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+      newScript.appendChild(document.createTextNode(content))
+      item.parentNode.replaceChild(newScript, item)
+    })
+
+    triggerPjaxFn(window.globalFn.pjaxComplete)
+  })
+
+  document.addEventListener('pjax:error', e => {
+    if (e.request.status === 404) {
+      const usePjax = true
+      true
+        ? (usePjax ? pjax.loadUrl('/404.html') : window.location.href = '/404.html')
+        : window.location.href = e.request.responseURL
+    }
+  })
+})()</script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="text-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="在这里搜索吧~" type="text"/></div></div><hr/><div id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js"></script></div></div></body></html>
