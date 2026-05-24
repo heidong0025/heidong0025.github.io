@@ -1,0 +1,91 @@
+#pagination .pagination {
+  line-height: 1;
+}
+
+.layout .pagination > .pagination-jump {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  width: auto;
+  min-width: 0;
+  height: 2.5em;
+  margin: 0 6px;
+  padding: 0 8px;
+  line-height: 1;
+  vertical-align: top;
+  color: var(--font-color);
+  background: var(--card-bg);
+  border-radius: 8px;
+  box-shadow: var(--card-box-shadow);
+}
+
+.layout .pagination > .pagination-jump:hover {
+  color: var(--font-color);
+  background: var(--card-bg);
+}
+
+.pagination-jump__label,
+.pagination-jump__total {
+  white-space: nowrap;
+  font-size: 0.92em;
+}
+
+.pagination-jump__total {
+  color: var(--font-color);
+  opacity: 0.72;
+}
+
+.pagination-jump__input {
+  box-sizing: border-box;
+  width: 4.2em;
+  height: 2em;
+  padding: 0 6px;
+  color: var(--font-color);
+  background: var(--card-bg);
+  border: 1px solid var(--light-grey);
+  border-radius: 6px;
+  font: inherit;
+  line-height: 2em;
+  text-align: center;
+  outline: none;
+}
+
+.pagination-jump__input:focus {
+  border-color: var(--btn-bg);
+  box-shadow: 0 0 0 2px rgba(73, 177, 245, 0.18);
+}
+
+.pagination-jump__input::-webkit-outer-spin-button,
+.pagination-jump__input::-webkit-inner-spin-button {
+  margin: 0;
+}
+
+.pagination-jump__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2em;
+  height: 2em;
+  padding: 0;
+  color: var(--btn-color);
+  background: var(--btn-bg);
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.pagination-jump__button:hover {
+  background: var(--btn-hover-color);
+}
+
+@media screen and (max-width: 480px) {
+  .layout .pagination > .pagination-jump {
+    margin-top: 8px;
+    max-width: calc(100vw - 48px);
+  }
+
+  .pagination-jump__label {
+    display: none;
+  }
+}
