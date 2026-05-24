@@ -61,7 +61,7 @@
     return targetPath + hash
   }
 
-  function createJumpForm(currentPage, totalPage, template) {
+  function createJumpForm(currentPage, totalPage, initialTemplate) {
     var form = document.createElement('form')
     form.className = 'pagination-jump'
     form.noValidate = true
@@ -96,9 +96,8 @@
     form.appendChild(total)
     form.appendChild(button)
 
-    form.addEventListener('submit', function (event) {
-      event.preventDefault()
-
+    function goToPage(event) {
+      if (event) event.preventDefault()
       var targetPage = Number.parseInt(input.value, 10)
       if (!Number.isFinite(targetPage)) {
         input.focus()
@@ -108,11 +107,16 @@
       targetPage = Math.max(1, Math.min(totalPage, targetPage))
       input.value = String(targetPage)
 
+      var pager = form.closest('.pagination')
+      var template = pager ? getPageTemplate(pager) || initialTemplate : initialTemplate
       var targetUrl = getTargetUrl(template, targetPage)
       if (!targetUrl) return
 
-      window.location.assign(targetUrl)
-    })
+      window.location.href = targetUrl
+    }
+
+    button.addEventListener('click', goToPage)
+    form.addEventListener('submit', goToPage)
 
     return form
   }
