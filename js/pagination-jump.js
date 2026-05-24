@@ -111,11 +111,7 @@
       var targetUrl = getTargetUrl(template, targetPage)
       if (!targetUrl) return
 
-      if (window.pjax && typeof window.pjax.loadUrl === 'function') {
-        window.pjax.loadUrl(targetUrl)
-      } else {
-        window.location.href = targetUrl
-      }
+      window.location.assign(targetUrl)
     })
 
     return form
